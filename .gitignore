@@ -1,0 +1,8 @@
+# Ignoriere den .idea-Ordner
+.idea/
+
+# Ignoriere den out-Ordner
+out/
+
+# Ignoriere die TicTacToe.iml-Datei
+TicTacToe.iml
