@@ -1,8 +1,6 @@
 # Tic Tac Toe Game
 
-## Description
-- A classic two-player game where players take turns marking spaces in a 3x3 grid.
-- The objective is to place three of your marks in a horizontal, vertical, or diagonal row.
+A classic two-player game where players take turns marking spaces in a 3x3 grid, aiming to place three of their marks in a horizontal, vertical, or diagonal row.
 
 ## Getting Started
 1. **Clone the Repository**:
